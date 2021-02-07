@@ -10,6 +10,5 @@ setuptools.setup(
     author_email='wangyu_0928@163.com',
     license='MIT',
     packages=setuptools.find_packages(),
-    setup_requires=['wheel'],
     zip_safe=False
 )
