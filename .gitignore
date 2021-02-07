@@ -1,0 +1,9 @@
+A_DATA
+.idea/
+venv
+*.pyc
+ZZ_Test
+*.dat
+*.log
+*.pkl
+*.bak
